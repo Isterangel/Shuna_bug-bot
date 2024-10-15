@@ -17,8 +17,8 @@ global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '22373633513'  //creator number
-global.ownername = 'I̥ͦ𓊈𒆜𝕴𝖘𝖙𝖊𝖗𒆜𓊉I̥ͦ『𝐋𝐆𝐓』『༎ⁱˢᵗᵉʳ༎』꧁༆Éℂ𝔸ℝ𝕃𝔸𝕋𝔼༆꧂⁩l' //owner name
+global.ownernumber = '22399501680'  //creator number
+global.ownername = 'I̥ͦ𓊈𒆜𝕴𝖘𝖙𝖊𝖗𒆜𓊉I̥ͦ『ny hades 21』『༎Eagel༎' //owner name
 global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
 
 //sticker details
